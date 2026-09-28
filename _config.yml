@@ -1,0 +1,13 @@
+title: ThinkPad X230 1vyrain + coreboot installation process (UEFI)
+description: Flash coreboot on a ThinkPad X230 with 1vyrain, no clip and no disassembly. BIOS downgrade to 2.60, coreboot + edk2 (UEFI) build, and flashing over the network.
+url: https://berendsliedrecht.github.io
+baseurl: /thinkpad-x230-1vyrain-coreboot
+lang: en
+author: Berend Sliedrecht
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-readme-index
+readme_index:
+  with_frontmatter: false
